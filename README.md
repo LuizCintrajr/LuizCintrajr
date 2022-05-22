@@ -20,6 +20,8 @@
   <br>
   Programo apenas por Hobbie :)
   <hr>
-  ![Snake animation](https://github.com/LuizCintrajr/LuizCintrajr/blob/output/github-contribution-grid-snake.svg)
   
+  <div align="center">
+  ![Snake animation](https://github.com/LuizCintrajr/LuizCintrajr/blob/output/github-contribution-grid-snake.svg)
+  </div>
     
